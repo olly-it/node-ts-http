@@ -10,3 +10,7 @@ npx tsc
 # run
 
 node dist/index.js
+
+# mac note:
+
+in an mac's italian keyboard the char ` is done with ALT+\
